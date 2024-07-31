@@ -14,6 +14,11 @@
 - [Airbnb base ESLint Config](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base)
 - [Prettier ESLint Config to fix conflicts between Prettier and ESLint Rules](https://github.com/prettier/eslint-config-prettier)
 
+## Babel
+- [Target browsers](https://jamie.build/last-2-versions) set to:
+`browsers: [">0.25%", "not ie 11", "not op_mini all"]`
+
+
 ## Others
 
 - `pages` script to enable hosting `\dist` on github pages
